@@ -14,6 +14,30 @@ public class Hello {
             System.out.print (not println) and produces the same output.*/
         System.out.print("This is my first program \n");
         System.out.print("I am on module ST4003CEM");
-    }
+        
+        /*3. Write a program that prints the following output:
+
+            A "quoted" String is
+
+            'much' better if you learn
+
+            the rules of "escape sequences."
+
+            Also, "" represents an empty
+
+            String. Don't forget: use \"
+
+            instead of " !
+
+            '' is not the same as "*/
+
+            System.out.print("A \"quoted\" String is \n");
+            System.out.print("\'much\' better if you learn \n");
+            System.out.print("the rules of \"escape sequences.\"\n");
+            System.out.print("Also, \"\" represents an empty\n");
+            System.out.print("String. Don't forget: use \\\"\n");
+            System.out.println("instead of \"!");
+            System.out.print("''is not the same as \"*/");
+            }
     
 }
