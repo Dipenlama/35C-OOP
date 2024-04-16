@@ -1,3 +1,4 @@
+package week1;
 public class VariableClass{
     //Instance variable
     //needs object to access 
