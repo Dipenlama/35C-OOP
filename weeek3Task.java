@@ -52,6 +52,7 @@ public class weeek3Task {
         // }else{
         //     System.out.println(numb2+ " is odd number");
         // }
+        
 
         //5. Write a JAVA program to check whether a year is a leap year or not. 
 
