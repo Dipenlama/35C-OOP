@@ -72,7 +72,6 @@ public class week2_task {
         // System.out.println("Enter your age: ");
         // int ages=scan.nextInt();
 
-        // //int exp= (ages>18);
         // String output=ages>18 ? "you are able to voting" : "you are not able to voting";
         // System.out.println(output);
 
@@ -123,7 +122,95 @@ public class week2_task {
             //8. Take side of a square from user and print area and perimeter of it.
             // Also, calculate Simple Interest, Area of triangle and Volume of Cube and Cuboid. Take the attributes as user input.
 
+            // for area and perimeter of square--->>
 
+            // System.out.println("Enter the side of Square:");
+            // double side=scan.nextDouble();
+            // System.out.println("The area of the Square is:"+ (side*side));
+
+            // System.out.println("The perimeter of the square is:"+(4*side));
+
+            // for simple interest--->
+            
+            // System.out.println("Enter the principle:");
+            // int p=scan.nextInt();
+            // System.out.println("Enter the time:");
+            // double t=scan.nextDouble();
+            // System.out.println("Enter the rate:");
+            // double r=scan.nextDouble();
+
+            // System.out.println("The Simple Interest is:"+(p*t*r/100));
+
+            ////for triangle:
+        
+            // System.out.println("enter the base of triangle: ");
+            // double b=scan.nextDouble();
+            // System.out.println("Enter the height of triangle: ");
+            // double  h=scan.nextDouble();
+
+            // System.out.println("The area of triangle is "+ 0.5*b*h);
+
+                        //for cuboid:
+            // System.out.println("Enter the length of cuboid:");
+            // int l=scan.nextInt();
+
+            // System.out.println("Enter width of the cuboid:");
+            // int w=scan.nextInt();
+
+            // System.out.println("Enter height of the cuboid:");
+            // int h=scan.nextInt();
+
+            // System.out.println("The area of cuboid is: "+ l*w*h);
+
+            //     for cube:
+            
+            // System.out.println("enter the length:");
+            // int l=scan.nextInt();
+            
+            // System.out.println("The area of cube is "+l*l*l);
+
+
+           // 9.  Ask user to give two double input for length and breadth of a rectangle and print area type casted to int.
+
+            // System.out.println("Enter the length of rectangle:");
+            // int l1=scan.nextInt();
+            // System.out.println("Enter the breadth of rectangle:");
+            // int b1=scan.nextInt();
+
+            // int area=(l1*b1);
+            // System.out.println("The area of rectangle is "+ area);
+
+
+            /*10. Write a program to calculate the total marks of four subjects of a student and the total percentage secured. 
+            And use the following conditions to generate the final result;
+
+            a. If equal to or more than 70 -> First Class
+
+            b. If more than 59 -> Upper Second Class
+
+            c. If more than 49 -> Second class
+
+            d. If more than 39 -> Third class and if below than 40 the result is fail. 
+
+            Hint: Use ternary operator  */
+
+            // System.out.println("Enter your marks for subject one:");
+            // double one=scan.nextDouble();
+            // System.out.println("Enter marks for second subject:");
+            // double two=scan.nextDouble();
+            // System.out.println("Enter marks for third subject:");
+            // double three=scan.nextDouble();
+            // System.out.println("Enter marks for fourth subject:");
+            // double four=scan.nextDouble();
+
+            // double perc=((one+two+three+four)/4);
+            // String result=(perc>=70) ?"First Class":
+            //         (perc>59) ? "Upper Second Class":
+            //         (perc>49) ?"Second Class":
+            //         (perc>39)?"third Class": "fail";
+
+            // System.out.println(result);
+           
     }
     
     
