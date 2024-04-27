@@ -90,9 +90,9 @@ public class weeek3Task {
         // }
         
         // cw.close();
+            // switch case statement questions-->
 
-
-        /*7. Write a Java program that takes a student's grade as input (A, B, C, D, or F) 
+        /*1. Write a Java program that takes a student's grade as input (A, B, C, D, or F) 
         and converts it to the corresponding GPA value. Use a switch case statement to 
         handle different grades.*/
         // Scanner result = new Scanner(System.in);
@@ -128,7 +128,7 @@ public class weeek3Task {
 
 
 
-        /*8. Create a Java program that takes two numbers and an operator (+, -, *, /) as 
+        /*2. Create a Java program that takes two numbers and an operator (+, -, *, /) as 
         inputs and performs the corresponding arithmetic operation using a switch case statement.*/
         // Scanner op = new Scanner(System.in);
         
@@ -175,7 +175,7 @@ public class weeek3Task {
         // op.close();
 
 
-        /*9. Write a Java program that takes an integer input (1 to 12) representing a month and 
+        /*3. Write a Java program that takes an integer input (1 to 12) representing a month and 
         prints the corresponding season (e.g., 1-3: Winter, 4-6: Spring, 7-9: Summer, 10-12: Fall) using a switch case. */
 
         // Scanner ritu = new Scanner(System.in);
@@ -212,7 +212,7 @@ public class weeek3Task {
 
         // ritu.close();
 
-        /*10. Implement a Java program that calculates the area of different shapes 
+        /*4. Implement a Java program that calculates the area of different shapes 
         (circle, rectangle, square, triangle)
          based on the user's choice using a switch case. */
         // Scanner geometry = new Scanner(System.in);
