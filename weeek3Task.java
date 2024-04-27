@@ -55,29 +55,30 @@ public class weeek3Task {
         
 
         //5. Write a JAVA program to check whether a year is a leap year or not. 
-        // Scanner year = new Scanner(System.in);
+        
         // System.out.println("Enter a year :");
-        // int y=year.nextInt();
+        // int y=scan.nextInt();
         // if((y % 4 == 0 && y % 100 != 0) || (y % 400 == 0)) {
         //         System.out.println(y + " is a leap year");
         // }
         // else{
         //         System.out.println(y + " is not a leap year");
         // }
-        // year.close();
+        
 
 
 
-        /*Write a JAVA program to input any alphabet 
+        /*6. Write a JAVA program to input any alphabet 
         and check whether it is vowel or consonant. */
+
         // Scanner cw = new Scanner(System.in);
         // System.out.print("Enter an alphabet: ");
         // char ch = cw.next().charAt(0);
         
-        // // Convert the alphabet to lowercase for easier comparison
+        // // // Convert the alphabet to lowercase for easier comparison
         // ch = Character.toLowerCase(ch);
         
-        // // Check if the entered character is a vowel or a consonant
+        // // // Check if the entered character is a vowel or a consonant
         // if (ch >= 'a' && ch <= 'z') {
         //     if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
         //         System.out.println(ch + " is a vowel.");
@@ -91,7 +92,7 @@ public class weeek3Task {
         // cw.close();
 
 
-        /*Write a Java program that takes a student's grade as input (A, B, C, D, or F) 
+        /*7. Write a Java program that takes a student's grade as input (A, B, C, D, or F) 
         and converts it to the corresponding GPA value. Use a switch case statement to 
         handle different grades.*/
         // Scanner result = new Scanner(System.in);
@@ -127,7 +128,7 @@ public class weeek3Task {
 
 
 
-        /* Create a Java program that takes two numbers and an operator (+, -, *, /) as 
+        /*8. Create a Java program that takes two numbers and an operator (+, -, *, /) as 
         inputs and performs the corresponding arithmetic operation using a switch case statement.*/
         // Scanner op = new Scanner(System.in);
         
@@ -174,7 +175,7 @@ public class weeek3Task {
         // op.close();
 
 
-        /*Write a Java program that takes an integer input (1 to 12) representing a month and 
+        /*9. Write a Java program that takes an integer input (1 to 12) representing a month and 
         prints the corresponding season (e.g., 1-3: Winter, 4-6: Spring, 7-9: Summer, 10-12: Fall) using a switch case. */
 
         // Scanner ritu = new Scanner(System.in);
@@ -211,7 +212,7 @@ public class weeek3Task {
 
         // ritu.close();
 
-        /*Implement a Java program that calculates the area of different shapes 
+        /*10. Implement a Java program that calculates the area of different shapes 
         (circle, rectangle, square, triangle)
          based on the user's choice using a switch case. */
         // Scanner geometry = new Scanner(System.in);
